@@ -22,16 +22,22 @@ Part 1:  Background, core concepts and discussion
 - Legal and regulatory aspects, public vs private sector conside-ations.
 - Understanding potential sources of bias
 - Bias and Fairness definitions
-- The Fairness Tree -  or  how to select appropriate metrics depending on actions/interventions
+- The Fairness Tree - or how to select appropriate metrics depending on actions/interventions
 - Bias mitigation approaches and techniques
+  - Pre-modeling
+  - Model selection
+  - Regularization
+  - Thresholds
+  - Applications
+- Additional Case Studies from Social Good Projects
 
-Part 2:  Hands-on bias audit, fairness-aware model selection andc ase studies
-- The Aequitas toolkit overview.
+Part 2:  Hands-on bias audit, fairness-aware model selection and case studies
+- Intro to Case Study: Prioritize education crowdfunding projects for extra support that may not get funded (using DonorsChoose data)
+- Aequitas toolkit overview.
 - Bias audit using the Aequitas toolkit
 - Results analysis and discussion
 - Bias mitigation, re-auditing and model selection
-- Public policy case study.
-Additional considerations and conclusions
+- Additional considerations and conclusions
 
 Part 3: 
 - Checklists
