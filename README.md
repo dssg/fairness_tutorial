@@ -29,14 +29,21 @@ Part 1:  Background, core concepts and discussion
   - Regularization
   - Thresholds
   - Applications
-- Additional Case Studies from Social Good Projects
+- Additional Case Studies from Social Good Projects: LA, Diabetes, Joco, El Salvador
 
 Part 2:  Hands-on bias audit, fairness-aware model selection and case studies
 - Intro to Case Study: Prioritize education crowdfunding projects for extra support that may not get funded (using DonorsChoose data)
-- Aequitas toolkit overview.
-- Bias audit using the Aequitas toolkit
-- Results analysis and discussion
-- Bias mitigation, re-auditing and model selection
+ - Define evaluation mnetric, protected group, and bias metrics of interest 
+- Aequitas toolkit overview
+- Bias Aware Modeling workflow using the Aequitas toolkit
+  - Build a 'standard' model to predict risk of not getting funded
+  - Audit the model for fairness
+  - Build additional models
+  - Audit and look at possible tradeoffs to think about bias aware model selection
+  - Try other bias reduction methods
+   - pre-modeling: sampling, feature selection, etc.
+   - regularization
+   - group specific thresholds
 - Additional considerations and conclusions
 
 Part 3: 
