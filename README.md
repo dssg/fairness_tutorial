@@ -13,9 +13,29 @@ Tackling issues of bias and fairness when building and deploying data science sy
 
 ## What will we cover?
 
-In this hands-on  tutorial  we  will  try  to  bridge  the  gap between research and practice, by deep diving into algorithmic fairness, from metrics and definitions to practical case studies, including bias audits using the [Aequitas toolkit](http://github.com/dssg/aequitas). By the end of this hands-on tutorial, the audience will be familiar with bias mitigation  frameworks and tools to help them making decisions during a project based on intervention and deployment contexts in which their system will be used.
+In this hands-on  tutorial  we will bridge the gap between research and practice, by deep diving into algorithmic fairness, from metrics and definitions to practical case studies, including bias audits (using the [Aequitas toolkit](http://github.com/dssg/aequitas)) and mitigation strategies. By the end of this hands-on tutorial, the audience will be familiar with bias mitigation frameworks and tools to help them making decisions during a project based on intervention and deployment contexts in which their system will be used.
 
 ## Schedule and Structure
+
+Part 1:  Background, core concepts and discussion
+- Algorithmic decision-making and the role of data scientists.
+- Legal and regulatory aspects, public vs private sector conside-ations.
+- Understanding potential sources of bias
+- Bias and Fairness definitions
+- The Fairness Tree -  or  how to select appropriate metrics depending on actions/interventions
+- Bias mitigation approaches and techniques
+
+Part 2:  Hands-on bias audit, fairness-aware model selection andc ase studies
+- The Aequitas toolkit overview.
+- Bias audit using the Aequitas toolkit
+- Results analysis and discussion
+- Bias mitigation, re-auditing and model selection
+- Public policy case study.
+Additional considerations and conclusions
+
+Part 3: 
+- Checklists
+- Tools
 
 
 ## Pre-Requisites
