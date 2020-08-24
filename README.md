@@ -25,7 +25,7 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 
 [Static jupyter notebooks](https://github.com/dssg/fairness_tutorial/tree/master/notebooks/)
 
-[Interactive versions hosted on colab]()
+[Interactive versions hosted on colab](notebooks/)
 
 1. Overall fairness and equity when building Data Science/ML systems
     * Fairness in Systems and Outcomes
