@@ -22,6 +22,7 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 
 ## Schedule and Structure
 [Slides](http://)
+
 [Colab notebooks](http://)
 
 1. Overall fairness and equity when building Data Science/ML systems
@@ -34,7 +35,7 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
    - Case Study 3: Prioritizing after-school programns to improve high-school graduation outcomes
 2. From societal goals to fairness goals to ML fairness metrics
  - ML Fairness Metrics
- - The Fairness Tree: Mapping from Societal and Fairness Goals to ML Fairness Metrics
+ - [The Fairness Tree](http://www.datasciencepublicpolicy.org/wp-content/uploads/2020/02/Fairness-Weeds.png): Mapping from Societal and Fairness Goals to ML Fairness Metrics
  - **Hands-on Session: Choosing Relevant Fairness Metric(s) in Case Studies**
    - Case Study 1: Hiring Recommender Systems
    - Case Study 2: Analyzing social media data assess damage and responding to natural disasters
