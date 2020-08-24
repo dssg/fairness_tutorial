@@ -27,13 +27,19 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
  - (Existing) Baselines
  - Sources of Bias in ML Systems
  - **Hands-on Session: Exploring Sources of Bias in Case Studies**
+  - Case Study 1: Hiring Recommender Systems
+  - Case Study 2: Analyzing social media data assess damage and responding to natural disasters
+  - Case Study 3: Prioritizing after-school programns to improve high-school graduation outcomes
 2. From societal goals to fairness goals to ML fairness metrics
  - ML Fairness Metrics
  - The Fairness Tree: Mapping from Societal and Fairness Goals to ML Fairness Metrics
  - **Hands-on Session: Choosing Relevant Fairness Metric(s) in Case Studies**
+  - Case Study 1: Hiring Recommender Systems
+  - Case Study 2: Analyzing social media data assess damage and responding to natural disasters
+  - Case Study 3: Prioritizing after-school programns to improve high-school graduation outcomes
 3. Audit bias and fairness of an ML-based decision-making system
  - Overview of Aequitas, an open source bias and fairness audit tool
- - What is needed to audit models? 
+ - What is needed to audit models?
  - **Hands-on Session: Auditing the predictions of an ML model**
 4. Explore bias reduction strategies
  - Overview of bias reduction strategies
