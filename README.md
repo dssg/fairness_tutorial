@@ -21,7 +21,7 @@ Today, treating bias and fairness as primary metrics of interest, and building, 
 In this hands-on tutorial we will bridge the gap between research and practice, by exploring fairness at the systems and outcomes level, from metrics and definitions to practical case studies, including bias audits (using the [Aequitas toolkit](http://github.com/dssg/aequitas)) and the impact of various bias reduction strategies. By the end of this hands-on tutorial, the audience will be familiar with bias audit and reduction frameworks and tools that will help them make informed design choices guided by the contexts in which their system will be deployed and used.
 
 ## Schedule and Structure
-[Slides](http://)
+[Slides](https://docs.google.com/presentation/d/146n8pyvkbZ8sS0WA3Jixb6hNGTcaD31HMuX7HRjk1rE/edit?usp=sharing)
 
 [Colab notebooks](notebooks/)
 
