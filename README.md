@@ -23,7 +23,7 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 ## Schedule and Structure
 [Slides](http://)
 
-[Colab notebooks](http://)
+[Colab notebooks](notebooks/)
 
 1. Overall fairness and equity when building Data Science/ML systems
     * Fairness in Systems and Outcomes
@@ -44,7 +44,7 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
         
 3. Audit bias and fairness of an ML-based decision-making system
    * Overview of [Aequitas, an open source bias and fairness audit tool](http://www.datasciencepublicpolicy.org/projects/aequitas/)
-   * What is needed to audit models?
+   * What is needed to audit models and predictions?
    * **Hands-on Session: Auditing the predictions of an ML model**
      + [Static Python notebook on github](https://github.com/dssg/fairness_tutorial/blob/master/notebooks/single_model_audit.ipynb)
      + [Interactive Colab notebook](https://colab.research.google.com/github/dssg/fairness_tutorial/blob/master/notebooks/single_model_audit.ipynb)
@@ -57,9 +57,9 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
         + Post-hoc adjustments to improve fairness
     * Case Studies
     * **Hands-on Session: Try bias reduction strategies**
-      + 'Fixing' the data: Sampling approaches [static notebook on github]()
+      + 'Fixing' the data: Sampling approaches [static notebook on github](https://github.com/dssg/fairness_tutorial/blob/master/notebooks/resampling.ipynb)
       + 'Fixing' the model: Regularization approaches [static notebook on github]()
-      + Post-hoc adjustments to improve fairness [static notebook on github]()
+      + Post-hoc adjustments to improve fairness [static notebook on github](https://github.com/dssg/fairness_tutorial/blob/master/notebooks/equalizing_recall.ipynb)
       
  5. Wrap-Up
     * Tools
