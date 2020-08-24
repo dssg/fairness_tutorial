@@ -1,4 +1,4 @@
-  ## Notebook hosted on colab
+## Notebook hosted on colab
   
   * Auditing the predictions of an ML model [Interactive Colab notebook](https://colab.research.google.com/github/dssg/fairness_tutorial/blob/master/notebooks/single_model_audit.ipynb)
   * Exploring bias reduction strategies
