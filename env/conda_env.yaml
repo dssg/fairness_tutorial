@@ -1,18 +1,17 @@
 
 # conda_env.yaml
-name: fairtutorial
+name: fairness_tutorial
 dependencies:
-  - python=3.7
+  - python=3.6
   - pandas>=0.20
   - numpy=1.*
   - scikit-learn
-  - lightgbm
   - jupyter
   - graphviz
   - seaborn
   - pip
   - pathlib
   - conda-forge::notebook
-#  - pip:
-#    # pip packages unavailable in conda
-#    - aequitas
+  - pip:
+    # pip packages unavailable in conda
+    - aequitas
