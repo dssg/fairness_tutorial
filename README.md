@@ -21,22 +21,24 @@ Today, treating bias and fairness as primary metrics of interest, and building, 
 In this hands-on tutorial we will bridge the gap between research and practice, by exploring fairness at the systems and outcomes level, from metrics and definitions to practical case studies, including bias audits (using the [Aequitas toolkit](http://github.com/dssg/aequitas)) and the impact of various bias reduction strategies. By the end of this hands-on tutorial, the audience will be familiar with bias audit and reduction frameworks and tools that will help them make informed design choices guided by the contexts in which their system will be deployed and used.
 
 ## Schedule and Structure
+[Slides](http://)
+[Colab notebooks](http://)
 
 1. Overall fairness and equity when building Data Science/ML systems
  - Fairness in Systems and Outcomes
  - (Existing) Baselines
  - Sources of Bias in ML Systems
  - **Hands-on Session: Exploring Sources of Bias in Case Studies**
-  - Case Study 1: Hiring Recommender Systems
-  - Case Study 2: Analyzing social media data assess damage and responding to natural disasters
-  - Case Study 3: Prioritizing after-school programns to improve high-school graduation outcomes
+   - Case Study 1: Hiring Recommender Systems
+   - Case Study 2: Analyzing social media data assess damage and responding to natural disasters
+   - Case Study 3: Prioritizing after-school programns to improve high-school graduation outcomes
 2. From societal goals to fairness goals to ML fairness metrics
  - ML Fairness Metrics
  - The Fairness Tree: Mapping from Societal and Fairness Goals to ML Fairness Metrics
  - **Hands-on Session: Choosing Relevant Fairness Metric(s) in Case Studies**
-  - Case Study 1: Hiring Recommender Systems
-  - Case Study 2: Analyzing social media data assess damage and responding to natural disasters
-  - Case Study 3: Prioritizing after-school programns to improve high-school graduation outcomes
+   - Case Study 1: Hiring Recommender Systems
+   - Case Study 2: Analyzing social media data assess damage and responding to natural disasters
+   - Case Study 3: Prioritizing after-school programns to improve high-school graduation outcomes
 3. Audit bias and fairness of an ML-based decision-making system
  - Overview of Aequitas, an open source bias and fairness audit tool
  - What is needed to audit models?
@@ -61,5 +63,4 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 ## Resources
 - [Aequitas](http://www.datasciencepublicpolicy.org/projects/aequitas/): Bias Audit Toolkit
 - Bias and Fairness in ML (book chapter)
-- 
 
