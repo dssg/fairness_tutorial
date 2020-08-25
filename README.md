@@ -26,7 +26,9 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 - Caring about the world, fairness, and equity.
 
 ## Schedule and Structure
-[Slides](https://docs.google.com/presentation/d/146n8pyvkbZ8sS0WA3Jixb6hNGTcaD31HMuX7HRjk1rE/edit?usp=sharing)
+[Google Slides](https://docs.google.com/presentation/d/146n8pyvkbZ8sS0WA3Jixb6hNGTcaD31HMuX7HRjk1rE/edit?usp=sharing) 
+
+[PDF Slides](fairness_kdd_tutorial_slides.pdf)
 
 [Static jupyter notebooks](https://github.com/dssg/fairness_tutorial/tree/master/notebooks/)
 
