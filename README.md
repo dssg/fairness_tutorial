@@ -78,3 +78,10 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 - [Aequitas](http://www.datasciencepublicpolicy.org/projects/aequitas/): Bias Audit Toolkit
 - Bias and Fairness in ML [draft book chapter](https://textbook.coleridgeinitiative.org/chap-bias.html)
 
+
+### Acknowledgements
+
+- Aaron Dunmore
+- Beatriz Malveiro
+- Catarina Belem
+- David Polido
