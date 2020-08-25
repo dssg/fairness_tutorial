@@ -74,5 +74,5 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 
 ## Resources
 - [Aequitas](http://www.datasciencepublicpolicy.org/projects/aequitas/): Bias Audit Toolkit
-- Bias and Fairness in ML (book chapter)
+- Bias and Fairness in ML (draft book chapter)[https://textbook.coleridgeinitiative.org/chap-bias.html]
 
