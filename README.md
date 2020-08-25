@@ -23,7 +23,9 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 ## Schedule and Structure
 [Slides](https://docs.google.com/presentation/d/146n8pyvkbZ8sS0WA3Jixb6hNGTcaD31HMuX7HRjk1rE/edit?usp=sharing)
 
-[Colab notebooks](notebooks/)
+[Static jupyter notebooks](https://github.com/dssg/fairness_tutorial/tree/master/notebooks/)
+
+[Interactive versions hosted on colab](https://dssg.github.io/fairness_tutorial/notebooks/)
 
 1. Overall fairness and equity when building Data Science/ML systems
     * Fairness in Systems and Outcomes
