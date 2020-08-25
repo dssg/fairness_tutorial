@@ -52,7 +52,7 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 3. Audit bias and fairness of an ML-based decision-making system
    * Overview of [Aequitas, an open source bias and fairness audit tool](http://www.datasciencepublicpolicy.org/projects/aequitas/)
    * What is needed to audit models and predictions?
-   * **Hands-on Session: [Auditing the predictions of an ML model]((https://colab.research.google.com/github/dssg/fairness_tutorial/blob/master/notebooks/single_model_audit.ipynb)** ✓ 
+   * **Hands-on Session: [Auditing the predictions of an ML model](https://colab.research.google.com/github/dssg/fairness_tutorial/blob/master/notebooks/single_model_audit.ipynb)** ✓ 
      + [Static Python notebook on github](https://github.com/dssg/fairness_tutorial/blob/master/notebooks/single_model_audit.ipynb)
      + [Interactive Colab notebook](https://colab.research.google.com/github/dssg/fairness_tutorial/blob/master/notebooks/single_model_audit.ipynb)
     
