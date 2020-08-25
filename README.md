@@ -30,13 +30,13 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 
 [Static jupyter notebooks](https://github.com/dssg/fairness_tutorial/tree/master/notebooks/)
 
-[Interactive versions hosted on colab](https://dssg.github.io/fairness_tutorial/notebooks/) :bulb: 
+[Interactive versions hosted on colab](https://dssg.github.io/fairness_tutorial/notebooks/) :pushpin:
 
 1. Overall fairness and equity when building Data Science/ML systems
     * Fairness in Systems and Outcomes
     * (Existing) Baselines
     * Sources of Bias in ML Systems
-    * **Hands-on Session: Exploring Sources of Bias in Case Studies** :bulb: 
+    * **Hands-on Session: Exploring Sources of Bias in Case Studies** :pushpin: 
         + [Case Study 1: Making bank loan denial decisions based on risk of not paying back in time](https://docs.google.com/document/d/16adKrjC8vLKpaoj0WeFhjMEqO1wolCZp5RldZGuQ16E/edit?usp=sharing)
         + [Case Study 2: Analyzing social media data assess damage and responding to natural disasters](https://docs.google.com/document/d/1cjzo3mhPB_Rvb5bMJqhLi4KbePMxgSXQ77M2WqdnjzQ/edit?usp=sharing)
         + [Case Study 3: Prioritizing after-school programns to improve high-school graduation outcomes](https://docs.google.com/document/d/1fyprl7HBMsXsXYCDyEfQL3iU8Q7lCCGtO64ixKuGPJA/edit?usp=sharing)
@@ -44,7 +44,7 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 2. From societal goals to fairness goals to ML fairness metrics
     * ML Fairness Metrics
     * [The Fairness Tree](http://www.datasciencepublicpolicy.org/wp-content/uploads/2020/02/Fairness-Weeds.png): Mapping from Societal and Fairness Goals to ML Fairness Metrics
-    * **Hands-on Session: Choosing Relevant Fairness Metric(s) in Case Studies** :bulb: 
+    * **Hands-on Session: Choosing Relevant Fairness Metric(s) in Case Studies** :pushpin: 
         + [Case Study 1: Making bank loan denial decisions based on risk of not paying back in time](https://docs.google.com/document/d/16adKrjC8vLKpaoj0WeFhjMEqO1wolCZp5RldZGuQ16E/edit?usp=sharing)
         + [Case Study 2: Analyzing social media data assess damage and responding to natural disasters](https://docs.google.com/document/d/1cjzo3mhPB_Rvb5bMJqhLi4KbePMxgSXQ77M2WqdnjzQ/edit?usp=sharing)
         + [Case Study 3: Prioritizing after-school programns to improve high-school graduation outcomes](https://docs.google.com/document/d/1fyprl7HBMsXsXYCDyEfQL3iU8Q7lCCGtO64ixKuGPJA/edit?usp=sharing)
@@ -52,7 +52,7 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 3. Audit bias and fairness of an ML-based decision-making system
    * Overview of [Aequitas, an open source bias and fairness audit tool](http://www.datasciencepublicpolicy.org/projects/aequitas/)
    * What is needed to audit models and predictions?
-   * **Hands-on Session: Auditing the predictions of an ML model** :bulb: 
+   * **Hands-on Session: Auditing the predictions of an ML model** :pushpin: 
      + [Static Python notebook on github](https://github.com/dssg/fairness_tutorial/blob/master/notebooks/single_model_audit.ipynb)
      + [Interactive Colab notebook](https://colab.research.google.com/github/dssg/fairness_tutorial/blob/master/notebooks/single_model_audit.ipynb)
     
@@ -63,7 +63,7 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
         + 'Fixing' the model: Regularization approaches
         + Post-hoc adjustments to improve fairness
     * Case Studies
-    * **Hands-on Session: Try bias reduction strategies** :bulb: 
+    * **Hands-on Session: Try bias reduction strategies** :pushpin:
       + 'Fixing' the data: Sampling approaches [static notebook on github](https://github.com/dssg/fairness_tutorial/blob/master/notebooks/resampling.ipynb), [interactive colab version](https://colab.research.google.com/github/dssg/fairness_tutorial/blob/master/notebooks/resampling.ipynb)
       + 'Fixing' the model: Regularization approaches [static notebook on github](https://github.com/dssg/fairness_tutorial/blob/master/notebooks/fairlearn_reductions.ipynb), [interactive colab version](https://colab.research.google.com/github/dssg/fairness_tutorial/blob/master/notebooks/fairlearn_reductions.ipynb)
       + Post-hoc adjustments to improve fairness [static notebook on github](https://github.com/dssg/fairness_tutorial/blob/master/notebooks/equalizing_recall.ipynb), [interactive colab version](https://colab.research.google.com/github/dssg/fairness_tutorial/blob/master/notebooks/equalizing_recall.ipynb)
