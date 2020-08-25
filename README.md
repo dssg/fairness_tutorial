@@ -69,8 +69,8 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
       + Post-hoc adjustments to improve fairness [static notebook on github](https://github.com/dssg/fairness_tutorial/blob/master/notebooks/equalizing_recall.ipynb), [interactive colab version](https://colab.research.google.com/github/dssg/fairness_tutorial/blob/master/notebooks/equalizing_recall.ipynb)
       
  5. Wrap-Up
-    * Tools
-    * Resources
+    * Things to remember
+    * Tools and Resources
 
 ## Resources
 - [Aequitas](http://www.datasciencepublicpolicy.org/projects/aequitas/): Bias Audit Toolkit
