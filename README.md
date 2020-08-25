@@ -70,7 +70,7 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
       
  5. Wrap-Up
     * Things to remember
-    * Tools and Resources
+    * Additional tools and resources
 
 ## Resources
 - [Aequitas](http://www.datasciencepublicpolicy.org/projects/aequitas/): Bias Audit Toolkit
