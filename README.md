@@ -65,7 +65,7 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
     * Case Studies
     * **Hands-on Session: Try bias reduction strategies**
       + 'Fixing' the data: Sampling approaches [static notebook on github](https://github.com/dssg/fairness_tutorial/blob/master/notebooks/resampling.ipynb), [interactive colab version](https://colab.research.google.com/github/dssg/fairness_tutorial/blob/master/notebooks/resampling.ipynb)
-      + 'Fixing' the model: Regularization approaches [static notebook on github](https://github.com/dssg/fairness_tutorial/blob/master/notebooks/regularization.ipynb), [interactive colab version](https://colab.research.google.com/github/dssg/fairness_tutorial/blob/master/notebooks/regularization.ipynb)
+      + 'Fixing' the model: Regularization approaches [static notebook on github](https://github.com/dssg/fairness_tutorial/blob/master/notebooks/fairlearn_reductions.ipynb), [interactive colab version](https://colab.research.google.com/github/dssg/fairness_tutorial/blob/master/notebooks/fairlearn_reductions.ipynb)
       + Post-hoc adjustments to improve fairness [static notebook on github](https://github.com/dssg/fairness_tutorial/blob/master/notebooks/equalizing_recall.ipynb), [interactive colab version](https://colab.research.google.com/github/dssg/fairness_tutorial/blob/master/notebooks/equalizing_recall.ipynb)
       
  5. Wrap-Up
