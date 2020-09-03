@@ -83,8 +83,43 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 - [Aequitas](http://www.datasciencepublicpolicy.org/projects/aequitas/): Bias Audit Toolkit
 - Bias and Fairness in ML [draft book chapter](https://textbook.coleridgeinitiative.org/chap-bias.html)
 
+## References
 
-### Acknowledgements
+### Bias Reduction Papers
+
+- Alekh Agarwal, Alina Beygelzimer, Miroslav Dudfk, John Langford, and Hanna Wallach. A reductions approach to fair classification. 35th International Conference on Machine Learning, ICML 2018, 1:102–119, 2018.
+
+- Muhammad Bilal Zafar, Isabel Valera, Manuel Gomez Rodriguez, and Krishna P. Gummadi. Fairness beyond disparate treatment & disparate impact: Learning classification without disparate mistreatment. 26th International World Wide Web Conference, WWW 2017, pages 1171–1180, 2017.
+
+- Muhammad Bilal Zafar, Isabel Valera, Manuel Gomez Rodriguez, and Krishna P. Gummadi. Fairness constraints: Mechanisms for fair classification. Proceedings of the 20th International Conference on Artificial Intelligence and Statistics, AISTATS 2017, 54, 2017.
+
+- L. Elisa Celis, L. Huang, V. Keswani, N. K. Vishnoi, Classification with fairness constraints: a meta-algorithm with provable guarantees. Proceedings of the Conference on Fairness, Accountability, and Transparency (ACM, 2019), pp. 319–328.
+
+- Andrew Cotter, Maya Gupta, Heinrich Jiang, Nathan Srebro, Karthik Sridharan, Serena Wang, Blake Woodworth, and Seungil You. Training Well-Generalizing
+Classifiers for Fairness Metrics and Other Data-Dependent Constraints. In Proceedings of the 36th International Conference on Machine Learning, volume 97,
+pages 1397–1405, Long Beach, California, USA, jun 2019. PMLR.
+
+
+### Post Modeling Correction Papers
+- Geoff Pleiss, Manish Raghavan, Felix Wu, Jon Kleinberg, and Kilian Q Weinberger. On Fairness and Calibration. In I Guyon, U V Luxburg, S Bengio, H Wallach,
+R Fergus, S Vishwanathan, and R Garnett, editors, Advances in Neural Information Processing Systems 30, pages 5680–5689. Curran Associates, Inc., 2017.
+
+- Moritz Hardt, Eric Price, and Nathan Srebro. Equality of Opportunity in Supervised Learning. Advances in Neural Information Processing Systems, (Nips):1–22,
+2016.
+
+- Kit T Rodolfa, Erika Salomon, Lauren Haynes, Iván Higuera Mendieta, Jamie Larson, and Rayid Ghani. Case study: predictive fairness to reduce misdemeanor
+recidivism through social service interventions. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, pages 142–153, 2020.
+
+
+### Case Studies
+- Alexandra Chouldechova, Diana Benavides-Prado, Oleksandr Fialko, and Rhema Vaithianathan. A case study of algorithm-assisted decision making in child maltreatment hotline screening decisions. In Conference on Fairness, Accountability and Transparency, pages 134–148, 2018
+
+- Kit T Rodolfa, Erika Salomon, Lauren Haynes, Iván Higuera Mendieta, Jamie Larson, and Rayid Ghani. Case study: predictive fairness to reduce misdemeanor
+recidivism through social service interventions. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, pages 142–153, 2020.
+
+- 
+
+## Acknowledgements
 
 - Aaron Dunmore
 - Beatriz Malveiro
