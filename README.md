@@ -104,8 +104,7 @@ pages 1397–1405, Long Beach, California, USA, jun 2019. PMLR.
 - Geoff Pleiss, Manish Raghavan, Felix Wu, Jon Kleinberg, and Kilian Q Weinberger. On Fairness and Calibration. In I Guyon, U V Luxburg, S Bengio, H Wallach,
 R Fergus, S Vishwanathan, and R Garnett, editors, Advances in Neural Information Processing Systems 30, pages 5680–5689. Curran Associates, Inc., 2017.
 
-- Moritz Hardt, Eric Price, and Nathan Srebro. Equality of Opportunity in Supervised Learning. Advances in Neural Information Processing Systems, (Nips):1–22,
-2016.
+- Moritz Hardt, Eric Price, and Nathan Srebro. Equality of Opportunity in Supervised Learning. Advances in Neural Information Processing Systems, (Nips):1–22, 2016.
 
 - Kit T Rodolfa, Erika Salomon, Lauren Haynes, Iván Higuera Mendieta, Jamie Larson, and Rayid Ghani. Case study: predictive fairness to reduce misdemeanor
 recidivism through social service interventions. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, pages 142–153, 2020.
@@ -117,7 +116,6 @@ recidivism through social service interventions. In Proceedings of the 2020 Conf
 - Kit T Rodolfa, Erika Salomon, Lauren Haynes, Iván Higuera Mendieta, Jamie Larson, and Rayid Ghani. Case study: predictive fairness to reduce misdemeanor
 recidivism through social service interventions. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, pages 142–153, 2020.
 
-- 
 
 ## Acknowledgements
 
