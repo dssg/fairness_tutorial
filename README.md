@@ -26,6 +26,11 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 - Caring about the world, fairness, and equity.
 
 ## Schedule and Structure
+
+[Overview PDF](kdd_tutorial.pdf)
+
+[Tutorial Video](https://www.youtube.com/watch?v=N67pE1AF5cM&ab_channel=DataScienceforSocialGood)
+
 [Google Slides](https://docs.google.com/presentation/d/146n8pyvkbZ8sS0WA3Jixb6hNGTcaD31HMuX7HRjk1rE/edit?usp=sharing) 
 
 [PDF Slides](fairness_kdd_tutorial_slides.pdf)
