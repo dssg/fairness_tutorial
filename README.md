@@ -9,9 +9,9 @@
 
 ## Why this tutorial?
 
-Tackling issues of bias and fairness when building and deploying data science systems has received increased attention from the research community in recent years, yet most of the research has focused on theoretical aspects with a very limited set of application areas and data sets.  Today, we have a lack of:
+Tackling issues of bias and fairness when building and deploying machine learning and data science systems has received increased attention from the research community in recent years, yet most of the research has focused on theoretical aspects with a very limited set of application areas and data sets.  Today, we have a lack of:
 1. Practical training materials
-2. Methodologies to follow when building data science systems that are fair and equitable for people that are affected by them
+2. Methodologies to follow when building ML/data science systems that are fair and equitable for people that are affected by them
 3. Tools for researchers and developers working on real-world, ML-based decision-making system to deal with issues of bias and fairness.  
 
 Today, treating bias and fairness as primary metrics of interest, and building, selecting, and validating models using these metrics is not standard practice for data scientists. This tutorial is a step towards changing that.
