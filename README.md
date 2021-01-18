@@ -1,7 +1,7 @@
 # [Dealing with Bias and Fairness in Data Science Systems: A Practical Hands-on Tutorial](https://dssg.github.io/fairness_tutorial/)
 
 Earlier versions:
-* [Presented at KDD 2020](https://github.com/dssg/fairness_tutorial/tree/1.0)
+* Presented at KDD 2020: [Github repo](https://github.com/dssg/fairness_tutorial/tree/1.0) and [web page] ((https://dssg.github.io/fairness_tutorial/kdd2020.md)
 
 ## Presenters
 
