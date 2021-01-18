@@ -1,5 +1,8 @@
 # [Dealing with Bias and Fairness in Data Science Systems: A Practical Hands-on Tutorial](https://dssg.github.io/fairness_tutorial/)
 
+Earlier versions:
+* [Presented at KDD 2020]()
+
 ## Presenters
 
 * Pedro Saleiro, Feedzai
