@@ -51,7 +51,7 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
         
 2. From societal goals to fairness goals to ML fairness metrics
     * ML Fairness Metrics
-    * [The Fairness Tree](http://www.datasciencepublicpolicy.org/wp-content/uploads/2020/02/Fairness-Weeds.png): Mapping from Societal and Fairness Goals to ML Fairness Metrics
+    * [The Fairness Tree](http://www.datasciencepublicpolicy.org/wp-content/uploads/2021/04/Fairness-Full-Tree.png): Mapping from Societal and Fairness Goals to ML Fairness Metrics ([Zoomed in Version](http://www.datasciencepublicpolicy.org/wp-content/uploads/2021/04/Fairness-Short-Tree.png)
     * **Hands-on Session: Choosing Relevant Fairness Metric(s) in Case Studies** ✓ 
         + [Case Study 1: Making bank loan denial decisions based on risk of not paying back in time](https://docs.google.com/document/d/1A3aLz4Hk1HAaXcNORj5whQ2CAMum7ozZ8JWasA_QGR8/edit?usp=sharing)
         + [Case Study 2: Analyzing social media data to assess damage and respond to natural disasters](https://docs.google.com/document/d/1K5cw3EkA2O4DrbckC0KpZBjIadU221tlYnu0UFGDln0/edit?usp=sharing)
