@@ -47,7 +47,7 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
     * **Hands-on Session: Exploring Sources of Bias in Case Studies** ✓ 
         + [Case Study 1: Making bank loan denial decisions based on risk of not paying back in time](https://docs.google.com/document/d/16adKrjC8vLKpaoj0WeFhjMEqO1wolCZp5RldZGuQ16E/edit?usp=sharing)
         + [Case Study 2: Analyzing social media data to assess damage and respond to natural disasters](https://docs.google.com/document/d/1cjzo3mhPB_Rvb5bMJqhLi4KbePMxgSXQ77M2WqdnjzQ/edit?usp=sharing)
-        + [Case Study 3: Prioritizing after-school programns to improve high-school graduation outcomes](https://docs.google.com/document/d/1fyprl7HBMsXsXYCDyEfQL3iU8Q7lCCGtO64ixKuGPJA/edit?usp=sharing)
+        + [Case Study 3: Prioritizing after-school programs to improve high-school graduation outcomes](https://docs.google.com/document/d/1fyprl7HBMsXsXYCDyEfQL3iU8Q7lCCGtO64ixKuGPJA/edit?usp=sharing)
         
 2. From societal goals to fairness goals to ML fairness metrics
     * ML Fairness Metrics
