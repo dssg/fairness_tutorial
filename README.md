@@ -31,11 +31,11 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 
 ## Schedule and Structure
 
-[Recorded Video](https://youtu.be/HwdDQWelPy0)
+[Recorded Video from previous tutorial](https://youtu.be/HwdDQWelPy0)
 
-[Google Slides](https://docs.google.com/presentation/d/17o_NzplYua5fcJFuGcy1V1-5GFAHk7oHAF4dN44NkUE/edit?usp=sharing) 
+[Google Slides](https://docs.google.com/presentation/d/1ApF3yYNRVQPepn1TSXwjJhLu4N5u2wewWJ47AbCI7oU/sharing) 
 
-[PDF Slides](Fairness_tutorial_slides_aaai2021_version.pdf)
+[PDF Slides]()
 
 [Static jupyter notebooks](https://github.com/dssg/fairness_tutorial/tree/master/notebooks/)
 
