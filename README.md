@@ -33,7 +33,7 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 
 [Recorded Video from previous tutorial](https://youtu.be/HwdDQWelPy0)
 
-[Google Slides](https://docs.google.com/presentation/d/1ApF3yYNRVQPepn1TSXwjJhLu4N5u2wewWJ47AbCI7oU/sharing) 
+[Google Slides](https://docs.google.com/presentation/d/1ApF3yYNRVQPepn1TSXwjJhLu4N5u2wewWJ47AbCI7oU/edit?usp=sharing) 
 
 [PDF Slides]()
 
