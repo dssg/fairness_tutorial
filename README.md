@@ -35,7 +35,7 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 
 [Google Slides](https://docs.google.com/presentation/d/1ApF3yYNRVQPepn1TSXwjJhLu4N5u2wewWJ47AbCI7oU/edit?usp=sharing) 
 
-[PDF Slides]()
+[PDF Slides](Fairness_tutorial_slides_ic2s2_2021_version.pdf)
 
 [Static jupyter notebooks](https://github.com/dssg/fairness_tutorial/tree/master/notebooks/)
 
