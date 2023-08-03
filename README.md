@@ -1,12 +1,13 @@
-# [Dealing with Bias and Fairness in Data Science Systems: A Practical Hands-on Tutorial](https://dssg.github.io/fairness_tutorial/)
+# [Addressing Bias and Fairness in Machine Learning: A Practical Guide and Hands-on Tutorial](https://dssg.github.io/fairness_tutorial/)
 
 Earlier versions:
-* Presented at AAAI 2021: [Github repo](https://github.com/dssg/fairness_tutorial/tree/1.1), [Video](https://youtu.be/HwdDQWelPy0?t=190), and [web page](https://dssg.github.io/fairness_tutorial/aaai2021.md)
 * Presented at KDD 2020: [Github repo](https://github.com/dssg/fairness_tutorial/tree/1.0), [Video](https://www.youtube.com/watch?v=N67pE1AF5cM&ab_channel=DataScienceforSocialGood), and [web page](https://dssg.github.io/fairness_tutorial/kdd2020.md)
+* Presented at AAAI 2021 [Github repo](https://github.com/dssg/fairness_tutorial/tree/1.1), [Video](https://www.youtube.com/watch?v=HwdDQWelPy0), and [web page](https://dssg.github.io/fairness_tutorial/aaai2021.md)
 
 ## Presenters
 
 * Pedro Saleiro, Feedzai
+* Sérgio Jesus, Feedzai
 * Kit T. Rodolfa, Carnegie Mellon University
 * [Rayid Ghani](http://www.rayidghani.com), Carnegie Mellon University
 
@@ -31,11 +32,11 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 
 ## Schedule and Structure
 
-[Recorded Video from previous tutorial](https://youtu.be/HwdDQWelPy0)
+[Recorded Video](https://youtu.be/HwdDQWelPy0)
 
-[Google Slides](https://docs.google.com/presentation/d/1ycNhDJr5uQiBhWvdlNArnv7ojydW73qryOjRBB30Z44/edit#slide=id.p) 
+[Google Slides](https://docs.google.com/presentation/d/17o_NzplYua5fcJFuGcy1V1-5GFAHk7oHAF4dN44NkUE/edit?usp=sharing) 
 
-[PDF Slides](Fairness_tutorial_slides_ic2s2_2021_version.pdf)
+[PDF Slides](Fairness_tutorial_slides_aaai2021_version.pdf)
 
 [Static jupyter notebooks](https://github.com/dssg/fairness_tutorial/tree/master/notebooks/)
 
@@ -123,5 +124,5 @@ recidivism through social service interventions. In Proceedings of the 2020 Conf
 
 - Aaron Dunmore
 - Beatriz Malveiro
-- Catarina Belem
+- Catarina Belém
 - David Polido
