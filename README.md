@@ -1,4 +1,4 @@
-# [Addressing Bias and Fairness in Machine Learning: A Practical Guide and Hands-on Tutorial](https://dssg.github.io/fairness_tutorial/)
+# [KDD 2023: Addressing Bias and Fairness in Machine Learning: A Practical Guide and Hands-on Tutorial](https://dssg.github.io/fairness_tutorial/)
 
 Earlier versions:
 * Presented at KDD 2020: [Github repo](https://github.com/dssg/fairness_tutorial/tree/1.0), [Video](https://www.youtube.com/watch?v=N67pE1AF5cM&ab_channel=DataScienceforSocialGood), and [web page](https://dssg.github.io/fairness_tutorial/kdd2020.md)
@@ -6,10 +6,10 @@ Earlier versions:
 
 ## Presenters
 
+* [Rayid Ghani](http://www.rayidghani.com), Carnegie Mellon University
+* Kit T. Rodolfa, RegLab, Stanford University
 * Pedro Saleiro, Feedzai
 * Sérgio Jesus, Feedzai
-* Kit T. Rodolfa, Carnegie Mellon University
-* [Rayid Ghani](http://www.rayidghani.com), Carnegie Mellon University
 
 
 ## Why this tutorial?
