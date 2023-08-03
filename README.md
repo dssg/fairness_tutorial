@@ -90,6 +90,8 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 
 ### Bias Reduction Papers
 
+- André Cruz, Catarina Belém, João Bravo, Pedro Saleiro, and Pedro Bizarro. FairGBM: Gradient Boosting with Fairness Constraints. 11th International Conference on Learning Representations, ICLR 2023. 
+
 - Alekh Agarwal, Alina Beygelzimer, Miroslav Dudfk, John Langford, and Hanna Wallach. A reductions approach to fair classification. 35th International Conference on Machine Learning, ICML 2018, 1:102–119, 2018.
 
 - Muhammad Bilal Zafar, Isabel Valera, Manuel Gomez Rodriguez, and Krishna P. Gummadi. Fairness beyond disparate treatment & disparate impact: Learning classification without disparate mistreatment. 26th International World Wide Web Conference, WWW 2017, pages 1171–1180, 2017.
