@@ -1,8 +1,8 @@
 # [KDD 2023 Tutorial - Addressing Bias and Fairness in Machine Learning: A Practical Guide and Hands-on Tutorial](https://dssg.github.io/fairness_tutorial/)
 
 Earlier versions:
-* Presented at KDD 2020: [Github repo](https://github.com/dssg/fairness_tutorial/tree/1.0), [Video](https://www.youtube.com/watch?v=N67pE1AF5cM&ab_channel=DataScienceforSocialGood), and [web page](https://dssg.github.io/fairness_tutorial/kdd2020.md)
 * Presented at AAAI 2021 [Github repo](https://github.com/dssg/fairness_tutorial/tree/1.1), [Video](https://www.youtube.com/watch?v=HwdDQWelPy0), and [web page](https://dssg.github.io/fairness_tutorial/aaai2021.md)
+* Presented at KDD 2020: [Github repo](https://github.com/dssg/fairness_tutorial/tree/1.0), [Video](https://www.youtube.com/watch?v=N67pE1AF5cM&ab_channel=DataScienceforSocialGood), and [web page](https://dssg.github.io/fairness_tutorial/kdd2020.md)
 
 ## Presenters
 
@@ -32,7 +32,6 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
 
 ## Schedule and Structure
 
-[Recorded Video](https://youtu.be/HwdDQWelPy0)
 
 [Google Slides](https://docs.google.com/presentation/d/17o_NzplYua5fcJFuGcy1V1-5GFAHk7oHAF4dN44NkUE/edit?usp=sharing) 
 
@@ -47,17 +46,17 @@ In this hands-on tutorial we will bridge the gap between research and practice, 
     * (Existing) Baselines
     * Sources of Bias in ML Systems
     * **Hands-on Session: Exploring Sources of Bias in Case Studies** ✓ 
-        + [Case Study 1: Making bank loan denial decisions based on risk of not paying back in time](https://docs.google.com/document/d/16adKrjC8vLKpaoj0WeFhjMEqO1wolCZp5RldZGuQ16E/edit?usp=sharing)
+        + [Case Study 1: Prioritizing after-school programs to improve high-school graduation outcomes](https://docs.google.com/document/d/1fyprl7HBMsXsXYCDyEfQL3iU8Q7lCCGtO64ixKuGPJA/edit?usp=sharing)
         + [Case Study 2: Analyzing social media data to assess damage and respond to natural disasters](https://docs.google.com/document/d/1cjzo3mhPB_Rvb5bMJqhLi4KbePMxgSXQ77M2WqdnjzQ/edit?usp=sharing)
-        + [Case Study 3: Prioritizing after-school programs to improve high-school graduation outcomes](https://docs.google.com/document/d/1fyprl7HBMsXsXYCDyEfQL3iU8Q7lCCGtO64ixKuGPJA/edit?usp=sharing)
-        
+       + [Case Study 3: Making bank loan denial decisions based on risk of not paying back in time](https://docs.google.com/document/d/16adKrjC8vLKpaoj0WeFhjMEqO1wolCZp5RldZGuQ16E/edit?usp=sharing)
+
 2. From societal goals to fairness goals to ML fairness metrics
     * ML Fairness Metrics
     * [The Fairness Tree](http://www.datasciencepublicpolicy.org/wp-content/uploads/2021/04/Fairness-Full-Tree.png): Mapping from Societal and Fairness Goals to ML Fairness Metrics ([Zoomed in Version](http://www.datasciencepublicpolicy.org/wp-content/uploads/2021/04/Fairness-Short-Tree.png)
     * **Hands-on Session: Choosing Relevant Fairness Metric(s) in Case Studies** ✓ 
-        + [Case Study 1: Making bank loan denial decisions based on risk of not paying back in time](https://docs.google.com/document/d/1A3aLz4Hk1HAaXcNORj5whQ2CAMum7ozZ8JWasA_QGR8/edit?usp=sharing)
-        + [Case Study 2: Analyzing social media data to assess damage and respond to natural disasters](https://docs.google.com/document/d/1K5cw3EkA2O4DrbckC0KpZBjIadU221tlYnu0UFGDln0/edit?usp=sharing)
-        + [Case Study 3: Prioritizing after-school programns to improve high-school graduation outcomes](https://docs.google.com/document/d/1f9-gcpwkZPRBP5pEXYOfHdvBAddfCaF_lQosE5owg-k/edit?usp=sharing)
+        + [Case Study 1: Prioritizing after-school programs to improve high-school graduation outcomes](https://docs.google.com/document/d/1fyprl7HBMsXsXYCDyEfQL3iU8Q7lCCGtO64ixKuGPJA/edit?usp=sharing)
+        + [Case Study 2: Analyzing social media data to assess damage and respond to natural disasters](https://docs.google.com/document/d/1cjzo3mhPB_Rvb5bMJqhLi4KbePMxgSXQ77M2WqdnjzQ/edit?usp=sharing)
+       + [Case Study 3: Making bank loan denial decisions based on risk of not paying back in time](https://docs.google.com/document/d/16adKrjC8vLKpaoj0WeFhjMEqO1wolCZp5RldZGuQ16E/edit?usp=sharing)
         
 3. Audit bias and fairness of an ML-based decision-making system
    * Overview of [Aequitas, an open source bias and fairness audit tool](http://www.datasciencepublicpolicy.org/projects/aequitas/)
