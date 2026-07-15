@@ -1,4 +1,4 @@
-# [KDD 2023 Tutorial - Addressing Bias and Fairness in Machine Learning: A Practical Guide and Hands-on Tutorial](https://dssg.github.io/fairness_tutorial/)
+# [Tutorial - Addressing Bias and Fairness in Machine Learning: A Practical Guide and Hands-on Tutorial](https://dssg.github.io/fairness_tutorial/)
 
 
 ## Presenters
@@ -9,15 +9,16 @@
 * Sérgio Jesus, Feedzai
 
 Earlier versions:
+* Presented at KDD 2023 
 * Presented at AAAI 2021 [Github repo](https://github.com/dssg/fairness_tutorial/tree/1.1), [Video](https://www.youtube.com/watch?v=HwdDQWelPy0), and [web page](https://dssg.github.io/fairness_tutorial/aaai2021.md)
 * Presented at KDD 2020: [Github repo](https://github.com/dssg/fairness_tutorial/tree/1.0), [Video](https://www.youtube.com/watch?v=N67pE1AF5cM&ab_channel=DataScienceforSocialGood), and [web page](https://dssg.github.io/fairness_tutorial/kdd2020.md)
 
 
 ## Why this tutorial?
 
-Tackling issues of bias and fairness when building and deploying machine learning and data science systems has received increased attention from the research community in recent years, yet most of the research has focused on theoretical aspects with a very limited set of application areas and data sets.  Today, we have a lack of:
+Tackling issues of bias and fairness when building and deploying AI, machine learning, and data science systems has received increased attention from the research community in recent years, yet most of the research has focused on theoretical aspects with a very limited set of application areas and data sets.  Today, we have a lack of:
 1. Practical training materials
-2. Methodologies to follow when building ML/data science systems that are fair and equitable for people that are affected by them
+2. Methodologies to follow when building AI/ML/data science systems that are fair and equitable for people that are affected by them
 3. Tools for researchers and developers working on real-world, ML-based decision-making system to deal with issues of bias and fairness.  
 
 Today, treating bias and fairness as primary metrics of interest, and building, selecting, and validating models using these metrics is not standard practice for data scientists. This tutorial is a step towards changing that.
